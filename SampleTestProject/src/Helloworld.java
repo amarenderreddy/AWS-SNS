@@ -1,6 +1,8 @@
-
 public class Helloworld {
-	
-	System.out.println("HAi");
+
+	public static void main(String s[]) {
+
+		System.out.println("Hello world");
+	}
 
 }
